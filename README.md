@@ -23,13 +23,6 @@ This application creates REST APIs to solve these requirements:
 - Hibernate 5.3.7.Final
 - REST API
 
-## How to compile and run the application with an example for each call
-
-Install: git clone https://github.com/thiaguimcavalcanti/hacker-rank-restapi-with-spring-boot.git
-
-Build: mvn package
-
-Deploy: mvn spring-boot:run
 
 ## Examples for each call
 
